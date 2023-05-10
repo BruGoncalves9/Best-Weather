@@ -2,9 +2,11 @@
 
 Native Android App developed in Kotlin
 
-Consists of a simple Weather App that consumes an Open Weather Public API Key (https://openweathermap.org/).
+Consists of a very simple Weather App that consumes an Open Weather Public API Key (https://openweathermap.org/).
 
 . Activities
+
+. ViewBinding
 
 . Retrofit library
 
