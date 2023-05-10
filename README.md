@@ -8,7 +8,7 @@ Consists of a very simple Weather App that consumes an Open Weather Public API K
 
 . ViewBinding
 
-. Retrofit library
+. Retrofit2
 
 ## Test the app
 
