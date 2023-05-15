@@ -12,4 +12,4 @@ Consists of a very simple Weather App that consumes an Open Weather Public API K
 
 ## Test the app
 
-Always welcome to clone the project and run it on your testing phone or emmulator.
+Always welcome to clone the project and run it on your testing phone or emulator.
